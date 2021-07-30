@@ -4,11 +4,13 @@
 My name is Aida Muhdina.  
 I'm a fresh graduated from Telkom University.  
 I'm currently learning "Machine Learning". Why Machine Learning? Cause it's really Fun!!  
-Wanna know the fun in learning Machine Learning? Let's colaborate. Hit me up on [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/)
+Wanna know the fun in learning Machine Learning? Let's colaborate. Hit me up on [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/) !  
 
+###Github Statistics
 <p align="left">
 <a href="https://github.com/aidamuhdina">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aidamuhdina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aidamuhdina&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aidamuhdina&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aidamuhdina&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
