@@ -2,7 +2,7 @@
 **Thank you for coming to my github profile.**    
 
 My name is Aida Muhdina.  
-I'm a fresh graduated from Telkom University.  
+I'm Telecommunication Engineering graduated from Telkom University.  
 I'm currently learning "Machine Learning". Why Machine Learning? Cause it's really Fun!!  
 Wanna know the fun in learning Machine Learning? Let's colaborate. Hit me up on [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/) !  
 
